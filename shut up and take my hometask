@@ -1,0 +1,30 @@
+*   [33mcommit 5f83c5eb3eb29d829509eef32773b38f08010409[m	refs/heads/hometask_1[33m ([m[1;36mHEAD -> [m[1;32mhometask_1[m[33m)[m
+[31m|[m[32m\[m  Merge: 95661fd b417493
+[31m|[m [32m|[m Author: unknown <VinayKrsna>
+[31m|[m [32m|[m Date:   Mon Jun 24 17:16:00 2019 +0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'conflict' into hometask_1
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit b417493335ca186d0c320e7dbaee697f15e9039c[m	refs/heads/conflict[33m ([m[1;32mconflict[m[33m)[m
+[31m|[m [32m|[m Author: unknown <VinayKrsna>
+[31m|[m [32m|[m Date:   Mon Jun 24 17:07:24 2019 +0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     One day, I broke everything
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 95661fd932dc2247a3cf3bd11053812f88431c1b[m	refs/heads/hometask_1
+[32m|[m[32m/[m  Author: unknown <VinayKrsna>
+[32m|[m   Date:   Mon Jun 24 17:14:02 2019 +0300
+[32m|[m   
+[32m|[m       I'm worried
+[32m|[m 
+* [33mcommit af143cc61caac435c0e079667f175cf6d3835abc[m	refs/remotes/origin/hometask_1[33m ([m[1;31morigin/hometask_1[m[33m)[m
+[32m|[m Author: unknown <VinayKrsna>
+[32m|[m Date:   Sat Jun 22 11:51:48 2019 +0300
+[32m|[m 
+[32m|[m     I'm not a magician I'm just learning
+[32m|[m 
+* [33mcommit c7704bcb94eaa41b1c91af139ab8b4481f21a25d[m	refs/heads/master[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+  Author: makweb <makweb@yandex.ru>
+  Date:   Fri Jun 7 11:28:40 2019 +0400
+  
+      init commit
